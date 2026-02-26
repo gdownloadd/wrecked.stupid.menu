@@ -90,9 +90,8 @@ I have no idea
 <details>
   <summary><b>🗣️ Contact Information</b></summary>
 	
-Need help or want to collaborate? Here are some of my sources of contact:
 - Discord: [@ralsei.dll](https://discordapp.com/users/987355896743096381)
-- YouTube: <a href=""><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCxkkTSxCcOeYId6Roxkyreg?style=for-the-badge"></a>
+- YouTube: [@wsmenu](https://youtube.com/@wsmenu)
 
 </details>
 
