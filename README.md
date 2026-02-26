@@ -15,7 +15,7 @@
 
 # <img src="Resources/GitHub/cone-emoji.png" height=26px> ii's Stupid Menu  
 
-ii's Stupid Menu is a **feature-packed** mod menu for Gorilla Tag, built by me, [**iiDk**](https://github.com/iiDk-the-actual). Whether you just want mods, are a developer, or anything inbetween, this menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content.  
+I wrecked ii's stupid menu and made this
 
 > Why settle for boring when you can have *stupidly* good?  
 
